@@ -1,6 +1,5 @@
-# somagamestudio.github.io
+# PRIVACY POLICY FOR MOBILE APPLICATION "DOGE WORLD"
 Privacy Policy
-PRIVACY POLICY FOR MOBILE APPLICATION "DOGE WORLD"
 Last updated: October 30, 2022
 
 This privacy policy governs your use of the software application “DOGE WORLD” (later referred as the/this “Application”) for Android™ mobile devices that was created by Soma Game Studio.
